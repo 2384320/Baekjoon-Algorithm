@@ -173,7 +173,7 @@ ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 �
 
 (세 자리 수) × (세 자리 수)는 다음과 같은 과정을 통하여 이루어진다.
 
-<img width="80%" src="https://github.com/2384320/Baekjoon-Algorithm/issues/1#issue-1556121035">
+<img width="80%" src="https://user-images.githubusercontent.com/71584474/214494769-168a7d65-c64e-4920-b969-76ad375a0ef8.png">
 
 (1)과 (2)위치에 들어갈 세 자리 자연수가 주어질 때 (3), (4), (5), (6)위치에 들어갈 값을 구하는 프로그램을 작성하시오.
 
