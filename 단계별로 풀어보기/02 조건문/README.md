@@ -1,4 +1,4 @@
-# 01 입출력과 사칙연산
+# 02 조건문
 
 - 1330 [두 수 비교하기](https://www.acmicpc.net/problem/1330)
 - 9498 [시험 성적](https://www.acmicpc.net/problem/9498)
