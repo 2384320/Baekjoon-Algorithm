@@ -1,0 +1,16 @@
+# 단계별로 풀어보기 포스팅
+
+- 01 [입출력과 사칙연산](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-1%EB%8B%A8%EA%B3%84-%EC%9E%85%EC%B6%9C%EB%A0%A5%EA%B3%BC-%EC%82%AC%EC%B9%99%EC%97%B0%EC%82%B0)
+- 02 [조건문](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-2%EB%8B%A8%EA%B3%84-%EC%A1%B0%EA%B1%B4%EB%AC%B8)
+- 03 [반복문](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-3%EB%8B%A8%EA%B3%84-%EB%B0%98%EB%B3%B5%EB%AC%B8)
+- 04 [1차원 배열](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-4%EB%8B%A8%EA%B3%84-1%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)
+- 05 [함수](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-5%EB%8B%A8%EA%B3%84-%ED%95%A8%EC%88%98)
+- 06 [문자열](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-6%EB%8B%A8%EA%B3%84-%EB%AC%B8%EC%9E%90%EC%97%B4)
+- 07 [기본 수학 1](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-7%EB%8B%A8%EA%B3%84-%EA%B8%B0%EB%B3%B8-%EC%88%98%ED%95%99-1)
+- 08 [기본 수학 2](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-8%EB%8B%A8%EA%B3%84-%EA%B8%B0%EB%B3%B8-%EC%88%98%ED%95%99-2)
+- 09 [2차원 배열](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-9%EB%8B%A8%EA%B3%84-2%EC%B0%A8%EC%9B%90-%EB%B0%B0%EC%97%B4)
+- 10 [정렬](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-10%EB%8B%A8%EA%B3%84-%EC%A0%95%EB%A0%AC)
+- 11 [재귀](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-11%EB%8B%A8%EA%B3%84-%EC%9E%AC%EA%B7%80)
+- 12 [브루트 포스](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-12%EB%8B%A8%EA%B3%84-%EB%B8%8C%EB%A3%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4)
+- 13 [집합과 맵](https://velog.io/@6720/%EB%B0%B1%EC%A4%80-Java-13%EB%8B%A8%EA%B3%84-%EC%A7%91%ED%95%A9%EA%B3%BC-%EB%A7%B5)
+- 14 [기하 1]()
