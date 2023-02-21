@@ -1,3 +1,9 @@
+# Update
+
+### 2023.02.21
+
+25083 새싹이 내려가고 11382 꼬마 정민이 등록됨.
+
 # 01 입출력과 사칙연산
 
 - 2557 [Hello World](https://www.acmicpc.net/problem/2557)
@@ -11,8 +17,10 @@
 - 3003 [킹, 퀸, 룩, 비숍, 나이트, 폰](https://www.acmicpc.net/problem/3003)
 - 10430 [나머지](https://www.acmicpc.net/problem/10430)
 - 2588 [곱셈](https://www.acmicpc.net/problem/2588)
+- 11382 [꼬마 정민](https://www.acmicpc.net/problem/11382)
 - 10171 [고양이](https://www.acmicpc.net/problem/10171)
 - 10172 [개](https://www.acmicpc.net/problem/10172)
+
 - 25083 [새싹](https://www.acmicpc.net/problem/25083)
 
 ## 2557 Hello World
@@ -225,6 +233,22 @@ ICPC Bangkok Regional에 참가하기 위해 수완나품 국제공항에 막 �
 ### 출력
 
 개를 출력한다.
+
+## 11382 꼬마 정민
+
+### 문제
+
+꼬마 정민이는 이제 A + B 정도는 쉽게 계산할 수 있다. 이제 A + B + C를 계산할 차례이다!
+
+### 입력
+
+첫 번째 줄에 A, B, C (1 ≤ A, B, C ≤ $10^{12}$)이 공백을 사이에 두고 주어진다.
+
+### 출력
+
+A+B+C의 값을 출력한다.
+
+---
 
 ## 25083 새싹
 
