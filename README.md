@@ -9,10 +9,11 @@
 | 1000 | [A+B](https://www.acmicpc.net/problem/1000) | [1000.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1000.java) | [1000 A+B](https://swift-badge-161.notion.site/1000-A-B-fa9d40fdbfa5489e98215b4007b6d4ab) |
 | 1001 | [A-B](https://www.acmicpc.net/problem/1000) | [1001.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1001.java) | [1001 A-B](https://www.notion.so/1001-A-B-c16031cf46384dad89656ef568eb7db8?pvs=4) |
 | 1002 | [터렛](https://www.acmicpc.net/problem/1000) | [1002.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1002.java) | [1002 터렛](https://www.notion.so/1002-eb7d43ff21444b039427cf214cf3bc75?pvs=4) |
-| 1004 | [A+B](https://www.acmicpc.net/problem/1000) | [1004.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1004.java) | [1004 어린 왕자](https://www.notion.so/1004-0f231d686b8a4466a48e91b24137eb36?pvs=4) |
+| 1004 | [어린 왕자](https://www.acmicpc.net/problem/1000) | [1004.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1004.java) | [1004 어린 왕자](https://www.notion.so/1004-0f231d686b8a4466a48e91b24137eb36?pvs=4) |
 | 1008 | [A/B](https://www.acmicpc.net/problem/1000) | [1008.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1008.java) | [1008 A/B](https://www.notion.so/1008-A-B-262f5a11c8784cf290b0938b081809a5?pvs=4) |
 | 1010 | [다리 놓기](https://www.acmicpc.net/problem/1000) | [1010.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1010.java) | [1010 다리 놓기](https://www.notion.so/1010-75889d43d2274983a92617ed1f4a0568?pvs=4) |
 | 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1000) | [1018.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1018.java) | [1018 체스판 다시 칠하기](https://www.notion.so/1018-15ff50b81b7b40ff826e3a8c0738e78b?pvs=4) |
+| 00000 | [Title]() | [Link]() | [Link]() |
 
 ## 벨로그 풀이 포스팅 모음 (업뎃 종료)
 
