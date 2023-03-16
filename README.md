@@ -19,13 +19,18 @@
 | 1018 | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | [1018.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1018.java) | [Link](https://www.notion.so/1018-15ff50b81b7b40ff826e3a8c0738e78b?pvs=4) |
 | 1026 | [보물](https://www.acmicpc.net/problem/1026) | [1026.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1026.java) | [Link](https://swift-badge-161.notion.site/01026-611e12e8b3184db2bf9407ebb77eae4d) |
 | 1037 | [약수](https://www.acmicpc.net/problem/1037) | [1037.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1037.java) | [Link](https://swift-badge-161.notion.site/01037-8ef26fff5fc64ed8945d8c3a0fadfdc3) |
+| 1065 | [한수](https://www.acmicpc.net/problem/1065) | [1065.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1065.java) | [Link](https://swift-badge-161.notion.site/01065-15a6ce21639d414d84284009254a822b) |
+| 1085 | [직사각형에서 탈출](https://www.acmicpc.net/problem/1085) | [1085.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1085.java) | [Link](https://swift-badge-161.notion.site/01085-cca4274ced264d7d8ad065e20d488939) |
 | 1181 | [단어 정렬](https://www.acmicpc.net/problem/1181) | [1181.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1181.java) | [Link](https://swift-badge-161.notion.site/01181-fc0168e333974618ac9ab17354139ddd) |
 | 1406 | [에디터](https://www.acmicpc.net/problem/1406) | [1406.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1406.java) | [Link](https://swift-badge-161.notion.site/01406-8aa7cc5e42014d2c89d606be038b046d) |
 | 1920 | [수 찾기](https://www.acmicpc.net/problem/1920) | [1920.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1920.java) | [Link](https://swift-badge-161.notion.site/1920-045627099a3f4c78b32e4f3518e64096) |
 | 1929 | [소수 구하기](https://www.acmicpc.net/problem/1929) | [1929.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1929.java) | [Link](https://swift-badge-161.notion.site/01929-cb7547edbca648e585fd7f09ecdd81c2) |
+| 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [1978.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1978.java) | [Link](https://swift-badge-161.notion.site/01978-62f1a1d87d0c4efd99ee2cab59719453) |
 | 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [2609.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2609.java) | [Link](https://swift-badge-161.notion.site/02609-7056b18c0d724519afa0770c6d8d5807) |
 | 2750 | [수 정렬하기](https://www.acmicpc.net/problem/2750) | [2750.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2750.java) | [Link](https://swift-badge-161.notion.site/2750-352fd4cfa54b4885a15749a9301a8968) |
 | 2751 | [수 정렬하기 2](https://www.acmicpc.net/problem/2751) | [2751.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2751.java) | [Link](https://swift-badge-161.notion.site/2751-2-afed6fede8c74231a96badb9eb1a28d2) |
+| 2869 | [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) | [2869.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2869.java) | [Link](https://swift-badge-161.notion.site/02869-4cce975c75eb4816a66a3bf6b5d0e3b4) |
+| 9012 | [괄호](https://www.acmicpc.net/problem/9012) | [9012.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/09000-09999/9012.java) | [Link](https://swift-badge-161.notion.site/09012-2d85baa9e0944bbbbeceeaddb882ff28) |
 | 10815 | [수 정렬하기 3](https://www.acmicpc.net/problem/10815) | [10815.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/10000-10999/10815.java) | [Link](https://swift-badge-161.notion.site/10815-363c31abed87459a8b78996608540e08) |
 | 10816 | [숫자 카드 2](https://www.acmicpc.net/problem/10816) | [10816.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/10000-10999/10816.java) | [Link](https://swift-badge-161.notion.site/10816-2-66d17979493147f7b654bbecdab106a4) |
 | 10828 | [스택](https://www.acmicpc.net/problem/10828) | [10828.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/10000-10999/10828.java) | [Link](https://swift-badge-161.notion.site/10828-143233d613f64e7297886fa353b5cfef) |
@@ -35,7 +40,6 @@
 | 10989 | [숫자 카드](https://www.acmicpc.net/problem/10989) | [10989.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/10000-10999/10989.java) | [Link](https://swift-badge-161.notion.site/10989-3-f2330aff621f4c0293db72b4a668a8a4) |
 | 11650 | [좌표 정렬하기](https://www.acmicpc.net/problem/11650) | [11650.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/11000-11999/11650.java) | [Link](https://swift-badge-161.notion.site/11650-ddb8aec5d3434340b73ac6706facab18) |
 | 11651 | [좌표 정렬하기 2](https://www.acmicpc.net/problem/11651) | [11651.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/11000-11999/11651.java) | [Link](https://swift-badge-161.notion.site/11651-2-cbf26b2758784d3a9288b316206badd5) |
-| 00000 | [Title](https://www.acmicpc.net/problem/) | [Link.java]() | [Link]() |
 
 ## 벨로그 풀이 포스팅 모음 (업뎃 종료)
 
