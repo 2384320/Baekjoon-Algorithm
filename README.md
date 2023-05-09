@@ -190,6 +190,7 @@
 | 9375 | [패션왕 신해빈](https://www.acmicpc.net/problem/9375) | [9375.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/09000-09999/9375.java) | [Re_9375.java]() | [Link](https://swift-badge-161.notion.site/09375-c84bf2652f034b4b9d84c02999091e51) |
 | 9466 | [텀 프로젝트](https://www.acmicpc.net/problem/9466) | [9466.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/09000-09999/9466.java) | [Re_9466.java]() | [Link](https://swift-badge-161.notion.site/09466-3d8c593e4b994d3fbd4d862255f27d43) |
 | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498) | [9498.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/09000-09999/9498.java) | X | [Link](https://swift-badge-161.notion.site/09498-21157a6d4680409d9ebe74bf96e56b94) |
+| 9576 | [책 나눠주기](https://www.acmicpc.net/problem/9576) | [9576.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/09000-09999/9576.java) | [Re_9576.java]() | [Link](https://swift-badge-161.notion.site/09576-fdeeec4427b2484390b11484fd12244d) |
 | 9663 | [N-Queen](https://www.acmicpc.net/problem/9663) | [9663.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/09000-09999/9663.java) | [Re_9663.java]() | [Link](https://swift-badge-161.notion.site/09663-N-Queen-47396e16e16f4894af62bdd57c457fbf) |
 
 ### 10000
