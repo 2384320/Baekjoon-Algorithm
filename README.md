@@ -4,7 +4,7 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chdms2412)](https://solved.ac/chdms2412)
 
-[참고 링크(백준 길라잡이)](https://ryute.tistory.com/33)
+[참고 링크(백준 길라잡이)](https://www.acmicpc.net/workbook/view/2419)
 
 ## 문제 풀이
 
