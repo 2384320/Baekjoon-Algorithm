@@ -169,7 +169,7 @@
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_0000.java) | [Link]() |
 | 5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | [5086.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5086.java) | [Re_5086.java]() | [Link](https://swift-badge-161.notion.site/05086-8fb205d4756443cbb1211241a01afa7b) |
-| 5430 | [AC](https://www.acmicpc.net/problem/5430) | [5430.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5430.java) | [Re_5430.java]() | [Link](https://swift-badge-161.notion.site/05430-AC-42c76dc7a28a49388fcf714799e0d4c6) |
+| 5430 | [AC](https://www.acmicpc.net/problem/5430) | [5430.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5430.java) | X | [Link](https://swift-badge-161.notion.site/05430-AC-42c76dc7a28a49388fcf714799e0d4c6) |
 | 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [5597.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5597.java) | [Re_5597.java]() | [Link](https://swift-badge-161.notion.site/05597-cce538790d8d4cef9d2466edb115259d) |
 | 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [5622.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5622.java) | [Re_5622.java]() | [Link](https://swift-badge-161.notion.site/05622-d23f79375f084af39f0c7d8359ebea7a) |
 
