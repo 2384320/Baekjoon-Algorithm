@@ -77,6 +77,7 @@
 | 1939 | [중량제한](https://www.acmicpc.net/problem/1939) | [1939.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1939.java) | [Re_1939.java]() | [Link](https://swift-badge-161.notion.site/01939-44c65faae75841cea0a5f840d9469ab0) |
 | 1966 | [프린터 큐](https://www.acmicpc.net/problem/1966) | [1966.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1966.java) | X | [Link](https://swift-badge-161.notion.site/01966-6b5ca73d259a447d86adc5fa1c5d3a23) |
 | 1978 | [소수 찾기](https://www.acmicpc.net/problem/1978) | [1978.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1978.java) | [Re_1978.java]() | [Link](https://swift-badge-161.notion.site/01978-62f1a1d87d0c4efd99ee2cab59719453) |
+| 1992 | [쿼드트리](https://www.acmicpc.net/problem/1992) | [1992.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/01000-01999/1992.java) | [Re_1992.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_01000-01999/Re_1992.java) | [Link](https://swift-badge-161.notion.site/01992-ba22d98bcde34abfa72ec1381c425cbc) |
 
 ### 2000
 
