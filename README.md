@@ -315,6 +315,7 @@
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/14000-14999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_14000-14999/Re_0000.java) | [Link]() |
 | 14425 | [문자열 집합](https://www.acmicpc.net/problem/14425) | [14425.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/14000-14999/14425.java) | [Re_14425.java]() | [Link](https://swift-badge-161.notion.site/14425-f48633db3fde48beb10900f4eba4fc85) |
+| 14500 | [테트로미노](https://www.acmicpc.net/problem/14500) | [14500.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/14000-14999/14500.java) | [Re_14500.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_14000-14999/Re_14500.java) | [Link](https://swift-badge-161.notion.site/14500-57edfbf042be48b3a166bee5dc006600) |
 | 14681 | [사분면 고르기](https://www.acmicpc.net/problem/14681) | [14681.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/14000-14999/14681.java) | [Re_14681.java]() | [Link](https://swift-badge-161.notion.site/14681-6245bd21ec6d47a49dd3082253997154) |
 | 14889 | [스타일과 링크](https://www.acmicpc.net/problem/14889) | [14889.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/14000-14999/14889.java) | [Re_14889.java]() | [Link](https://swift-badge-161.notion.site/14889-9f5f3dd235c1494a9bb5d8dce214b1dd) |
 
