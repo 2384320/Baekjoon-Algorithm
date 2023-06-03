@@ -103,6 +103,7 @@
 | 2477 | [참외밭](https://www.acmicpc.net/problem/2477) | [2477.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2477.java) | [Re_2477.java]() | [Link](https://swift-badge-161.notion.site/02477-9747b93f85c24f6a9cb6256ce9bce54c) |
 | 2480 | [주사위 세계](https://www.acmicpc.net/problem/2480) | [2480.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2480.java) | [Re_2480.java]() | [Link](https://swift-badge-161.notion.site/02480-c83acb7578554a61b59f5de97facb72f) |
 | 2485 | [가로수](https://www.acmicpc.net/problem/2485) | [2485.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2485.java) | [Re_2485.java]() | [Link](https://swift-badge-161.notion.site/02485-7b32fc1e0b4745dfbd25d898c919b030) |
+| 2501 | [약수 구하기](https://www.acmicpc.net/problem/2501) | [2501.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2501.java) | X | [Link](https://swift-badge-161.notion.site/02501-ced3a2da618c4e808806e54cfb8bf428?pvs=4) |
 | 2512 | [예산](https://www.acmicpc.net/problem/2512) | [2512.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2512.java) | [Re_2512.java]() | [Link](https://swift-badge-161.notion.site/02512-cb854664da0c4df1bd6e982e842aad17) |
 | 2525 | [오븐 시계](https://www.acmicpc.net/problem/2525) | [2525.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2525.java) | [Re_2525.java]() | [Link](https://swift-badge-161.notion.site/02525-eb3717c292d54e7a97c8a36ee4b4a82d) |
 | 2529 | [부등호](https://www.acmicpc.net/problem/2529) | [2529.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2529.java) | [Re_2529.java]() | [Link](https://swift-badge-161.notion.site/02529-45cac7a5105e497b823b288c2b54a963) |
@@ -328,6 +329,7 @@
 | 15596 | [정수 N개의 합](https://www.acmicpc.net/problem/15596) | [15596.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15596.java) | X | [Link](https://swift-badge-161.notion.site/15596-N-fb89382fbe824e95a92d19ce89cdfa37) |
 | 15686 | [치킨 배달](https://www.acmicpc.net/problem/15686) | [15686.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15686.java) | [Re_15686.java]() | [Link](https://swift-badge-161.notion.site/15686-c351b630f9974b5994321a4ae8f9525d) |
 | 15711 | [환상의 짝꿍](https://www.acmicpc.net/problem/15711) | [15711.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15711.java) | [Re_15711.java]() | [Link](https://swift-badge-161.notion.site/15711-bbf1209e7d02477ca554762b2ada7123) |
+| 15802 | [타노스](https://www.acmicpc.net/problem/15802) | [15802.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15802.java) | X | [Link](https://swift-badge-161.notion.site/15802-e176aff7b04241b6b55bcf47c7e2f597?pvs=4) |
 | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [15829.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15829.java) | [Re_15829.java]() | [Link](https://swift-badge-161.notion.site/15829-Hashing-7a6371df73e14a048f8dec9ef297efe3) |
 
 ### 16000
@@ -335,6 +337,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/16000-16999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_16000-16999/Re_0000.java) | [Link]() |
+| 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | [16236.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/16000-16999/16236.java) | [Re_16236.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_16000-16999/Re_16236.java) | [Link](https://swift-badge-161.notion.site/16236-54acc0062d2943319288819bb041b53b?pvs=4) |
 
 ### 17000
 
