@@ -347,6 +347,7 @@
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/17000-17999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_17000-17999/Re_0000.java) | [Link]() |
 | 17219 | [비밀번호 찾기](https://www.acmicpc.net/problem/17219) | [17219.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/17000-17999/17219.java) | [Re_17219.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_17000-17999/Re_17219.java) | [Link](https://swift-badge-161.notion.site/17219-e68c4a1e1bc6447080017f14c820b982) |
+| 17626 | [Four Squares](https://www.acmicpc.net/problem/17626) | [17626.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/17000-17999/17626.java) | [Re_17626.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_17000-17999/Re_17626.java) | [Link](https://swift-badge-161.notion.site/17626-Four-Squares-8f6166e8d08b4287a793d33d5e132a99?pvs=4) |
 
 ### 18000
 
