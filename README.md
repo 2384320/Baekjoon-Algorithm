@@ -93,7 +93,7 @@
 | 2206 | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) | [2206.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2206.java) | [Re_2206.java]() | [Link](https://swift-badge-161.notion.site/02206-a6fd3749d63a468998fc86f1c5ab69c4) |
 | 2217 | [로프](https://www.acmicpc.net/problem/2217) | [2217.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2217.java) | [Re_2217.java]() | [Link](https://swift-badge-161.notion.site/02217-0525390be253450f995c315ec96969a4) |
 | 2231 | [분해합](https://www.acmicpc.net/problem/2231) | [2231.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2231.java) | [Re_2231.java]() | [Link](https://swift-badge-161.notion.site/02231-d2c3219fa4094d79bfeff59ab4ff7405) |
-| 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [2292.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2292.java) | [Re_2292.java]() | [Link](https://swift-badge-161.notion.site/02292-2ea4d8f89d554d5fba636c1994da17b5) |
+| 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [2292.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2292.java) | X | [Link](https://swift-badge-161.notion.site/02292-2ea4d8f89d554d5fba636c1994da17b5) |
 | 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | [2293.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2293.java) | [Re_2293.java]() | [Link](https://swift-badge-161.notion.site/02293-1-32a30d75e2e44436a11db7018f103627) |
 | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [2438.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2438.java) | X | [Link](https://swift-badge-161.notion.site/02438-1-70003a2349484b76851268385b87e1c2) |
 | 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [2439.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2439.java) | [Re_2439.java]() | [Link](https://swift-badge-161.notion.site/02439-2-a4f7888dab5440c5ab995e8e4effe1d2) |
@@ -370,6 +370,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/20000-20999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_20000-20999/Re_0000.java) | [Link]() |
+| 20529 | [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [20529.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/20000-20999/20529.java) | [Re_20529.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_20000-20999/Re_20529.java) | [Link](https://swift-badge-161.notion.site/20529-fe34f144b0c44226977ef0b3ca025390?pvs=4) |
 
 ### 21000
 
