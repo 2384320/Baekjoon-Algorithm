@@ -377,6 +377,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/21000-21999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_21000-21999/Re_0000.java) | [Link]() |
+| 21736 | [헌내기는 친구가 필요해](https://www.acmicpc.net/problem/21736) | [21736.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/21000-21999/21736.java) | [Re_21736.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_21000-21999/Re_21736.java) | [Link](https://swift-badge-161.notion.site/21736-d6282d36b61346779ba3751fcb20fb12?pvs=4) |
 
 ### 22000
 
