@@ -341,6 +341,7 @@
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/16000-16999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_16000-16999/Re_0000.java) | [Link]() |
 | 16236 | [아기 상어](https://www.acmicpc.net/problem/16236) | [16236.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/16000-16999/16236.java) | [Re_16236.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_16000-16999/Re_16236.java) | [Link](https://swift-badge-161.notion.site/16236-54acc0062d2943319288819bb041b53b?pvs=4) |
 | 16928 | [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) | [16928.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/16000-16999/16928.java) | [Re_16928.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_16000-16999/Re_16928.java) | [Link](https://swift-badge-161.notion.site/16928-27fc94b6093a4f5a9148e8648cbc9bf6?pvs=4) |
+| 16953 | [A → B](https://www.acmicpc.net/problem/16953) | [16953.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/16000-16999/16953.java) | [Re_16953.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_16000-16999/Re_16953.java) | [Link](https://swift-badge-161.notion.site/16953-A-B-df0b4b71a04c4db7bd0e3ff69a66f075?pvs=4) |
 
 ### 17000
 
