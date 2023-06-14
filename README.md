@@ -96,7 +96,7 @@
 | 2292 | [벌집](https://www.acmicpc.net/problem/2292) | [2292.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2292.java) | X | [Link](https://swift-badge-161.notion.site/02292-2ea4d8f89d554d5fba636c1994da17b5) |
 | 2293 | [동전 1](https://www.acmicpc.net/problem/2293) | [2293.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2293.java) | [Re_2293.java]() | [Link](https://swift-badge-161.notion.site/02293-1-32a30d75e2e44436a11db7018f103627) |
 | 2438 | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) | [2438.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2438.java) | X | [Link](https://swift-badge-161.notion.site/02438-1-70003a2349484b76851268385b87e1c2) |
-| 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [2439.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2439.java) | [Re_2439.java]() | [Link](https://swift-badge-161.notion.site/02439-2-a4f7888dab5440c5ab995e8e4effe1d2) |
+| 2439 | [별 찍기 - 2](https://www.acmicpc.net/problem/2439) | [2439.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2439.java) | X | [Link](https://swift-badge-161.notion.site/02439-2-a4f7888dab5440c5ab995e8e4effe1d2) |
 | 2444 | [별 찍기 - 7](https://www.acmicpc.net/problem/2444) | [2444.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2444.java) | [Re_2444.java]() | [Link](https://swift-badge-161.notion.site/02444-7-2dfa81841b3a4332b971a1992719d33d) |
 | 2447 | [별 찍기 - 10](https://www.acmicpc.net/problem/2447) | [2447.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2447.java) | [Re_2447.java]() | [Link](https://swift-badge-161.notion.site/02447-10-c01dc4fab64b461bb13635cb30a15810) |
 | 2475 | [검증수](https://www.acmicpc.net/problem/2475) | [2475.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/02000-02999/2475.java) | [Re_2475.java]() | [Link](https://swift-badge-161.notion.site/02475-0d6e11bcc7404084a6edbb6eea603c7f) |
@@ -393,6 +393,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/23000-23999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_23000-23999/Re_0000.java) | [Link]() |
+| 23971 | [ZOAC 4](https://www.acmicpc.net/problem/23971) | [23971.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/23000-23999/23971.java) | [Re_23971.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_23000-23999/Re_23971.java) | [Link](https://swift-badge-161.notion.site/23971-ZOAC-4-0a3444aa94d24c1785922ba242f6814f?pvs=4) |
 
 ### 24000
 
