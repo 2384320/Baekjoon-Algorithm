@@ -429,6 +429,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/27000-27999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_27000-27999/Re_0000.java) | [Link]() |
+| 27323 | [직사각형](https://www.acmicpc.net/problem/27323) | [27323.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/27000-27999/27323.java) | [Re_27323.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_27000-27999/Re_27323.java) | [Link](https://swift-badge-161.notion.site/27323-48233af67054423eafb6b8678239451f?pvs=4) |
 | 27866 | [문자와 문자열](https://www.acmicpc.net/problem/27866) | [27866.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/27000-27999/27866.java) | X | [Link](https://swift-badge-161.notion.site/27866-28d85d569fa74075918be301ef25dc63) |
 
 ## 벨로그 풀이 포스팅 모음 (업뎃 종료)
