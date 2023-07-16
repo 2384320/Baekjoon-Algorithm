@@ -366,6 +366,7 @@
 | 15802 | [타노스](https://www.acmicpc.net/problem/15802) | [15802.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15802.java) | X | [Link](https://swift-badge-161.notion.site/15802-e176aff7b04241b6b55bcf47c7e2f597?pvs=4) |
 | 15829 | [Hashing](https://www.acmicpc.net/problem/15829) | [15829.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15829.java) | [Re_15829.java]() | [Link](https://swift-badge-161.notion.site/15829-Hashing-7a6371df73e14a048f8dec9ef297efe3) |
 | 15894 | [수학은 체육과목 입니다](https://www.acmicpc.net/problem/15894) | [15894.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15894.java) | X | [Link](https://swift-badge-161.notion.site/15894-ca7cd243adeb4ac799e763a38ed83d4d?pvs=4) |
+| 15964 | [이상한 기호](https://www.acmicpc.net/problem/15964) | [15964.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/15000-15999/15964.java) | X | [Link](https://swift-badge-161.notion.site/15964-c1396f6e5e824d808efddf212701f19a?pvs=4) |
 
 ### 16000
 
