@@ -194,6 +194,7 @@
 | 5525 | [IOIOI](https://www.acmicpc.net/problem/5525) | [5525.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5525.java) | [Re_5525.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_5525.java) | [Link](https://swift-badge-161.notion.site/05525-IOIOI-f1e89c5600ea42c0aca8b1d781893813) |
 | 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [5597.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5597.java) | [Re_5597.java]() | [Link](https://swift-badge-161.notion.site/05597-cce538790d8d4cef9d2466edb115259d) |
 | 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [5622.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5622.java) | [Re_5622.java]() | [Link](https://swift-badge-161.notion.site/05622-d23f79375f084af39f0c7d8359ebea7a) |
+| 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [5639.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5639.java) | [Re_5639.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_5639.java) | [Link](https://swift-badge-161.notion.site/05639-ae22dc42858a49ad939ab32d6ebdf40e?pvs=4) |
 
 ### 6000
 
