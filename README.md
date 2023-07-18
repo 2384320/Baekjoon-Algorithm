@@ -176,6 +176,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_04000-04999/Re_0000.java) | [Link]() |
+| 4101 | [크냐?](https://www.acmicpc.net/problem/4101) | [4101.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4101.java) | X | [Link](https://swift-badge-161.notion.site/04101-4a8482e8f51e4d79b0684e700b95838a?pvs=4) |
 | 4153 | [직각삼각형](https://www.acmicpc.net/problem/4153) | [4153.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4153.java) | [Re_4153.java]() | [Link](https://swift-badge-161.notion.site/04153-624736278b7746239bfd19e6dab19494) |
 | 4344 | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) | [4344.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4344.java) | [Re_4344.java]() | [Link](https://swift-badge-161.notion.site/04344-431aea9dcb2d4b08b4f89de2d0e52bba) |
 | 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [4673.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4673.java) | [Re_4673.java]() | [Link](https://swift-badge-161.notion.site/04673-151c109593bd4d84a6cd9017c692347d) |
