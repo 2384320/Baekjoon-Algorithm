@@ -326,6 +326,7 @@
 | 11727 | [2xn 타일링 2](https://www.acmicpc.net/problem/11727) | [11727.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/11000-11999/11727.java) | [Re_11727.java]() | [Link](https://swift-badge-161.notion.site/11727-2xn-2-7c7867997bc34bb49c362601bde93810) |
 | 11729 | [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729) | [11729.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/11000-11999/11729.java) | [Re_11729.java]() | [Link](https://swift-badge-161.notion.site/11729-96357f23b9f94741918a7aa520f24610) |
 | 11866 | [요세푸스 문제 0](https://www.acmicpc.net/problem/11666) | [11666.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/11000-11999/11666.java) | [Re_11666.java]() | [Link](https://swift-badge-161.notion.site/11866-0-10dc8489ded34cdb80d1a3a26fc36d19) |
+| 11942 | [고려대는 사랑입니다](https://www.acmicpc.net/problem/11942) | [11942.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/11000-11999/11942.java) | X | [Link](https://swift-badge-161.notion.site/11942-cc8e745316da41669e8816fb6c33ae95?pvs=4) |
 
 ### 12000
 
