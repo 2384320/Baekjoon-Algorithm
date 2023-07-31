@@ -194,14 +194,14 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_0000.java) | [Link]() |
-| 5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | [5086.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5086.java) | [Re_5086.java]() | [Link](https://swift-badge-161.notion.site/05086-8fb205d4756443cbb1211241a01afa7b) |
+| 5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | [5086.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5086.java) | X | [Link](https://swift-badge-161.notion.site/05086-8fb205d4756443cbb1211241a01afa7b) |
 | 5337 | [웰컴](https://www.acmicpc.net/problem/5337) | [5337.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5337.java) | X | [Link](https://swift-badge-161.notion.site/05337-6216c994c80940108ab27f09b1458297?pvs=4) |
 | 5338 | [마이크로소프트 로고](https://www.acmicpc.net/problem/5338) | [5338.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5338.java) | X | [Link](https://swift-badge-161.notion.site/05338-bd59a37722a046e8af6d3a9558d37c3a?pvs=4) |
 | 5430 | [AC](https://www.acmicpc.net/problem/5430) | [5430.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5430.java) | X | [Link](https://swift-badge-161.notion.site/05430-AC-42c76dc7a28a49388fcf714799e0d4c6) |
 | 5522 | [카드 게임](https://www.acmicpc.net/problem/5522) | [5522.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5522.java) | X | [Link](https://swift-badge-161.notion.site/05522-3ea6103bf63646b49ed84780ed296251?pvs=4) |
 | 5525 | [IOIOI](https://www.acmicpc.net/problem/5525) | [5525.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5525.java) | [Re_5525.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_5525.java) | [Link](https://swift-badge-161.notion.site/05525-IOIOI-f1e89c5600ea42c0aca8b1d781893813) |
-| 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [5597.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5597.java) | [Re_5597.java]() | [Link](https://swift-badge-161.notion.site/05597-cce538790d8d4cef9d2466edb115259d) |
-| 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [5622.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5622.java) | [Re_5622.java]() | [Link](https://swift-badge-161.notion.site/05622-d23f79375f084af39f0c7d8359ebea7a) |
+| 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | [5597.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5597.java) | X | [Link](https://swift-badge-161.notion.site/05597-cce538790d8d4cef9d2466edb115259d) |
+| 5622 | [다이얼](https://www.acmicpc.net/problem/5622) | [5622.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5622.java) | X | [Link](https://swift-badge-161.notion.site/05622-d23f79375f084af39f0c7d8359ebea7a) |
 | 5639 | [이진 검색 트리](https://www.acmicpc.net/problem/5639) | [5639.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5639.java) | [Re_5639.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_5639.java) | [Link](https://swift-badge-161.notion.site/05639-ae22dc42858a49ad939ab32d6ebdf40e?pvs=4) |
 
 ### 6000
@@ -219,7 +219,7 @@
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_07000-07999/Re_0000.java) | [Link]() |
 | 7287 | [등록](https://www.acmicpc.net/problem/7287) | [7287.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7287.java) | X | [Link](https://swift-badge-161.notion.site/07287-437c5ebfd4ea4d7cbcdac0d60323c3ba?pvs=4) |
-| 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [7568.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7568.java) | [Re_7568.java]() | [Link](https://swift-badge-161.notion.site/07568-26fdd5b149d54f64b38d898615f352bf) |
+| 7568 | [덩치](https://www.acmicpc.net/problem/7568) | [7568.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7568.java) | X | [Link](https://swift-badge-161.notion.site/07568-26fdd5b149d54f64b38d898615f352bf) |
 | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [7569.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7569.java) | [Re_7569.java]() | [Link](https://swift-badge-161.notion.site/07569-fc59bd3de2c74dc1831f68732c4d106a) |
 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [7576.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7576.java) | [Re_7576.java]() | [Link](https://swift-badge-161.notion.site/07576-887b1bcdcdd64a2593945d97cbd2b0fa) |
 | 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [7662.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7662.java) | [Re_7662.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_07000-07999/Re_7662.java) | [Link](https://swift-badge-161.notion.site/07662-aa7e0732917e4505ae4407ad7957457b) |
@@ -229,7 +229,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/08000-08999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_08000-08999/Re_0000.java) | [Link]() |
-| 8393 | [합](https://www.acmicpc.net/problem/8393) | [8393.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/08000-08999/8393.java) | [Re_8393.java]() | [Link](https://swift-badge-161.notion.site/08393-aac48b95963741b8aa9080e71c789868) |
+| 8393 | [합](https://www.acmicpc.net/problem/8393) | [8393.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/08000-08999/8393.java) | X | [Link](https://swift-badge-161.notion.site/08393-aac48b95963741b8aa9080e71c789868) |
 | 8958 | [OX퀴즈](https://www.acmicpc.net/problem/8958) | [8958.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/08000-08999/8958.java) | [Re_8958.java]() | [Link](https://swift-badge-161.notion.site/08958-44d9c771c0314b1391b9bdb247946483) |
 
 ### 9000
@@ -340,6 +340,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/12000-12999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_12000-12999/Re_0000.java) | [Link]() |
+| 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [12851.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/12000-12999/12851.java) | [Re_12851.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_12000-12999/Re_12851.java) | [Link](https://swift-badge-161.notion.site/12851-2-e02a4c81a0334058b56350373ebb826e?pvs=4) |
 | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [12865.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/12000-12999/12865.java) | [Re_12865.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_12000-12999/Re_12865.java) | [Link](https://swift-badge-161.notion.site/12865-97ec9916ee454a8480561edc0209a3c3?pvs=4) |
 
 ### 13000
