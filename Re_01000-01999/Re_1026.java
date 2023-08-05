@@ -28,7 +28,6 @@ public class Main {
         }
 
         bw.write(s+"");
-
         bw.flush();
         br.close();
         bw.close();
