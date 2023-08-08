@@ -225,6 +225,7 @@
 | 7569 | [토마토](https://www.acmicpc.net/problem/7569) | [7569.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7569.java) | [Re_7569.java]() | [Link](https://swift-badge-161.notion.site/07569-fc59bd3de2c74dc1831f68732c4d106a) |
 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | [7576.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7576.java) | [Re_7576.java]() | [Link](https://swift-badge-161.notion.site/07576-887b1bcdcdd64a2593945d97cbd2b0fa) |
 | 7662 | [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) | [7662.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7662.java) | [Re_7662.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_07000-07999/Re_7662.java) | [Link](https://swift-badge-161.notion.site/07662-aa7e0732917e4505ae4407ad7957457b) |
+| 7785 | [회사에 있는 사람](https://www.acmicpc.net/problem/7785) | [7785.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/07000-07999/7785.java) | X | [Link](https://swift-badge-161.notion.site/07785-7e08fe3d66b84328a7071161efe6c0fc?pvs=4) |
 
 ### 8000
 
