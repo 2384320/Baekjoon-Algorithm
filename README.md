@@ -190,12 +190,14 @@
 | 4673 | [셀프 넘버](https://www.acmicpc.net/problem/4673) | [4673.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4673.java) | [Re_4673.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_04000-04999/Re_4673.java) | [Link](https://swift-badge-161.notion.site/04673-151c109593bd4d84a6cd9017c692347d) |
 | 4948 | [베르트랑 공준](https://www.acmicpc.net/problem/4948) | [4948.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4948.java) | X | [Link](https://swift-badge-161.notion.site/04948-20711d5f138f401babdac6ab6b334f10) |
 | 4949 | [균형잡힌 세상](https://www.acmicpc.net/problem/4949) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4949.java) | [Re_4949.java]() | [Link](https://swift-badge-161.notion.site/04949-1861a52dff4647498d75074460492d34) |
+| 4999 | [아!](https://www.acmicpc.net/problem/4999) | [4999.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/04000-04999/4999.java) | X | [Link](https://swift-badge-161.notion.site/04999-9f1af53b91cf4d64acaa080f72b0b602?pvs=4) |
 
 ### 5000
 
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_0000.java) | [Link]() |
+| 5014 | [스타트링크](https://www.acmicpc.net/problem/5014) | [5014.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5014.java) | [Re_5014.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_05000-05999/Re_5014.java) | [Link](https://swift-badge-161.notion.site/05014-98ef120071654379b7c8a9f4f0bb2736?pvs=4) |
 | 5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | [5086.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5086.java) | X | [Link](https://swift-badge-161.notion.site/05086-8fb205d4756443cbb1211241a01afa7b) |
 | 5337 | [웰컴](https://www.acmicpc.net/problem/5337) | [5337.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5337.java) | X | [Link](https://swift-badge-161.notion.site/05337-6216c994c80940108ab27f09b1458297?pvs=4) |
 | 5338 | [마이크로소프트 로고](https://www.acmicpc.net/problem/5338) | [5338.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/05000-05999/5338.java) | X | [Link](https://swift-badge-161.notion.site/05338-bd59a37722a046e8af6d3a9558d37c3a?pvs=4) |
