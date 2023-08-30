@@ -447,6 +447,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/20000-20999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_20000-20999/Re_0000.java) | [Link]() |
+| 20040 | [사이클 게임](https://www.acmicpc.net/problem/20040) | [20040.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/20000-20999/0000.java) | [Re_20040.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_20000-20999/Re_20040.java) | [Link](https://swift-badge-161.notion.site/20040-5fb9a924ace14719bf8eda5b8ea84883?pvs=4) |
 | 20529 | [가장 가까운 세 사람의 심리적 거리](https://www.acmicpc.net/problem/20529) | [20529.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/20000-20999/20529.java) | [Re_20529.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_20000-20999/Re_20529.java) | [Link](https://swift-badge-161.notion.site/20529-fe34f144b0c44226977ef0b3ca025390?pvs=4) |
 
 ### 21000
