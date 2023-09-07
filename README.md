@@ -360,6 +360,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/12000-12999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_12000-12999/Re_0000.java) | [Link]() |
+| 12100 | [2048 (Easy)](https://www.acmicpc.net/problem/12100) | [12100.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/12000-12999/12100.java) | [Re_12100.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_12000-12999/Re_12100.java) | [Link](https://swift-badge-161.notion.site/12100-2048-Easy-a58edd5ddcdc4a558793d8ccfb0d0a44?pvs=4) |
 | 12851 | [숨바꼭질 2](https://www.acmicpc.net/problem/12851) | [12851.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/12000-12999/12851.java) | [Re_12851.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_12000-12999/Re_12851.java) | [Link](https://swift-badge-161.notion.site/12851-2-e02a4c81a0334058b56350373ebb826e?pvs=4) |
 | 12865 | [평범한 배낭](https://www.acmicpc.net/problem/12865) | [12865.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/12000-12999/12865.java) | [Re_12865.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_12000-12999/Re_12865.java) | [Link](https://swift-badge-161.notion.site/12865-97ec9916ee454a8480561edc0209a3c3?pvs=4) |
 
