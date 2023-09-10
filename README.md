@@ -519,6 +519,7 @@
 | Index | Title | Link(Github) | Link(Github-refactoring) | Link(Posting) |
 |----|----|----|----|----|
 | 0000 | [Title](https://www.acmicpc.net/problem/) | [Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/28000-28999/0000.java) | [Re_Link.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_28000-28999/Re_0000.java) | [Link]() |
+| 28278 | [스택 2](https://www.acmicpc.net/problem/28278) | [28278.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/28000-28999/28278.java) | X | [Link](https://swift-badge-161.notion.site/28278-2-431678d794f047c9b91764d119a637e9?pvs=4) |
 | 28701 | [세제곱의 합](https://www.acmicpc.net/problem/28701) | [28701.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/28000-28999/28701.java) | X | [Link](https://swift-badge-161.notion.site/28701-198a69fc73e742ebb8609249a1495c0c?pvs=4) |
 
 ## 벨로그 풀이 포스팅 모음 (업뎃 종료)
