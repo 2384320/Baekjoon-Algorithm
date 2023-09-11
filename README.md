@@ -186,6 +186,7 @@
 | 3009 | [네 번째 점](https://www.acmicpc.net/problem/3009) | [3009.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/03000-03999/3009.java) | X | [Link](https://swift-badge-161.notion.site/03009-da3ec5cf90cc40b89d8b4d9ff9bbc135) |
 | 3052 | [나머지](https://www.acmicpc.net/problem/3052) | [3052.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/03000-03999/3052.java) | X | [Link](https://swift-badge-161.notion.site/03052-f25ff72531814042b9b2057a6201d885) |
 | 3053 | [택시 기하학](https://www.acmicpc.net/problem/3053) | [3053.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/03000-03999/3053.java) | [Re_3053.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_03000-03999/Re_3053.java) | [Link](https://swift-badge-161.notion.site/03053-7d48c6bc888f4850849f606f732286d6) |
+| 3190 | [뱀](https://www.acmicpc.net/problem/3190) | [3190.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/03000-03999/3190.java) | [Re_3190.java](https://github.com/2384320/Baekjoon-Algorithm/blob/main/Re_03000-03999/Re_3190.java) | [Link](https://swift-badge-161.notion.site/03190-6abd263c15fa49a0a75edcc2e38fecee?pvs=4) |
 
 ### 4000
 
