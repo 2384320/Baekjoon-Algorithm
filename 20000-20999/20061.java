@@ -30,23 +30,6 @@ public class Main {
 
             getScore();
             checkSpecial();
-
-
-            System.out.println("green " + i);
-            for (int j = 0; j < 6; j++) {
-                for (int k = 0; k < 4; k++) {
-                    System.out.print(green[j][k] + " ");
-                }
-                System.out.println();
-            }
-
-            System.out.println("blue " + i);
-            for (int j = 0; j < 4; j++) {
-                for (int k = 0; k < 6; k++) {
-                    System.out.print(blue[j][k] + " ");
-                }
-                System.out.println();
-            }
         }
 
         System.out.println(score);
@@ -81,12 +64,11 @@ public class Main {
     private static void moveOneTwoBlock(int x, int y) {
         boolean alreadyExist = false;
         for (int i = 1; i < 6; i++) {
-            if (green[i][y] || green[i][y + 1]) {
-                alreadyExist = true;
-                green[i - 1][y] = true;
-                green[i - 1][y + 1] = true;
-                break;
-            }
+            if (!green[i][y] && !green[i][y + 1]) continue;
+            alreadyExist = true;
+            green[i - 1][y] = true;
+            green[i - 1][y + 1] = true;
+            break;
         }
         if (!alreadyExist) {
             green[5][y] = true;
@@ -175,7 +157,10 @@ public class Main {
 
     private static void resetGreenZeroLine(int start) {
         for (int i = start; i > 0; i--) {
-            green[i] = green[i - 1];
+            green[i][0] = green[i - 1][0];
+            green[i][1] = green[i - 1][1];
+            green[i][2] = green[i - 1][2];
+            green[i][3] = green[i - 1][3];
         }
 
         green[0][0] = false;
