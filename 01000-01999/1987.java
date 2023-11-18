@@ -26,7 +26,7 @@ public class Main {
         }
         dfs(0, 0, 0);
 
-        bw.write(answer + "");
+        System.out.println(answer == 0 ? 1 : answer);
         bw.flush();
         br.close();
         bw.close();
@@ -38,7 +38,7 @@ public class Main {
             answer = Math.max(depth, answer);
             return;
         }
-        
+
         alphabet[a] = true;
         for (int i = 0; i < 4; i++) {
             int nx = x + moveX[i];
@@ -48,5 +48,4 @@ public class Main {
         }
         alphabet[a] = false;
     }
-
 }
